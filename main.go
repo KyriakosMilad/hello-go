@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/KyriakosMilad/hello-go/slices"
+	"github.com/KyriakosMilad/hello-go/maps"
 )
 
 func main() {
@@ -10,5 +10,6 @@ func main() {
 	//primitives.Primitives()
 	//constants.Constants()
 	//arrays.Arrays()
-	slices.Slices()
+	//slices.Slices()
+	maps.Maps()
 }
