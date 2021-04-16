@@ -1,10 +1,9 @@
 package main
 
-import (
-	"github.com/KyriakosMilad/hello-go/variables"
-)
+import "github.com/KyriakosMilad/hello-go/primitives"
 
 func main() {
 	//hello.SayHello()
-	variables.Variables()
+	//variables.Variables
+	primitives.Primitives()
 }
