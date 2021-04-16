@@ -6,7 +6,7 @@ import "fmt"
 //  naming variable for in-package scope first letter small
 //  naming variable for out-package scope first letter capital
 //  all variables must be used
-// can't redeclare variables but can shadow them
+//  can't redeclare variables but can shadow them
 
 func Variables() {
 	// ways to declare variable
