@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github.com/KyriakosMilad/hello-go/hello"
 )
 
 func main() {
-	fmt.Println("Hello World")
+	hello.SayHello()
 }
