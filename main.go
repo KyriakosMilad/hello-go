@@ -1,6 +1,8 @@
 package main
 
-import "github.com/KyriakosMilad/hello-go/structs"
+import (
+	"github.com/KyriakosMilad/hello-go/conditions"
+)
 
 func main() {
 	//hello.SayHello()
@@ -10,5 +12,6 @@ func main() {
 	//arrays.Arrays()
 	//slices.Slices()
 	//maps.Maps()
-	structs.Structs()
+	//structs.Structs()
+	conditions.Conditions()
 }
