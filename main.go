@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/KyriakosMilad/hello-go/maps"
-)
+import "github.com/KyriakosMilad/hello-go/structs"
 
 func main() {
 	//hello.SayHello()
@@ -11,5 +9,6 @@ func main() {
 	//constants.Constants()
 	//arrays.Arrays()
 	//slices.Slices()
-	maps.Maps()
+	//maps.Maps()
+	structs.Structs()
 }
