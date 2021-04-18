@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/KyriakosMilad/hello-go/conditions"
-)
+import "github.com/KyriakosMilad/hello-go/loops"
 
 func main() {
 	//hello.SayHello()
@@ -13,5 +11,6 @@ func main() {
 	//slices.Slices()
 	//maps.Maps()
 	//structs.Structs()
-	conditions.Conditions()
+	//conditions.Conditions()
+	loops.Loops()
 }
