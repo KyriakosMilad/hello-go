@@ -1,6 +1,6 @@
 package main
 
-import "github.com/KyriakosMilad/hello-go/loops"
+import "github.com/KyriakosMilad/hello-go/controls"
 
 func main() {
 	//hello.SayHello()
@@ -12,5 +12,6 @@ func main() {
 	//maps.Maps()
 	//structs.Structs()
 	//conditions.Conditions()
-	loops.Loops()
+	//loops.Loops()
+	controls.Controls()
 }
