@@ -6,7 +6,7 @@ import (
 
 func main() {
 	//hello.SayHello()
-	//variables.Variables
+	//variables.Variables()
 	//primitives.Primitives()
 	//constants.Constants()
 	//arrays.Arrays()
