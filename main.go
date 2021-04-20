@@ -1,6 +1,8 @@
 package main
 
-import "github.com/KyriakosMilad/hello-go/pointers"
+import (
+	"github.com/KyriakosMilad/hello-go/functions"
+)
 
 func main() {
 	//hello.SayHello()
@@ -14,5 +16,6 @@ func main() {
 	//conditions.Conditions()
 	//loops.Loops()
 	//controls.Controls()
-	pointers.Pointers()
+	//pointers.Pointers()
+	functions.Functions()
 }
